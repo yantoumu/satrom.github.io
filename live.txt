@@ -773,3 +773,29 @@ MTV LIVE HD,P2p://120.79.144.205:9906/5dc08f01000bbc0d01b79068070a7988.ts
 BBC HD,P2p://120.79.144.205:9906/5dc08f01000ad05201b7902c343bc007.ts
 BBC Lifestyle HD,P2p://120.79.144.205:9906/5dc08f010009f63d01b78ff419325ae0.ts
 BBC earth HD,P2p://120.79.144.205:9906/5dc08f01000924dc01b78fbe69aa63f6.ts
+DOX高清,#genre#
+广东综艺4K,http://27.36.62.162:9090/live/GDZYHD4K_38000.m3u8
+DOX4K,http://27.36.62.162:9090/live/dox4k_16000.m3u8
+DOX院线HD,http://27.36.62.162:9090/live/DOXyuanxianHD_7000.m3u8
+DOX雅趣HD,http://27.36.62.162:9090/live/DOXhanliuHD_7000.m3u8
+DOX怡家HD,http://27.36.62.162:9090/live/DOXyijiaHD_7000.m3u8
+DOX英伦HD,http://27.36.62.162:9090/live/DOXyinglunHD_7000.m3u8
+DOX新艺HD,http://27.36.62.162:9090/live/DOXxinyiHD_7000.m3u8
+DOX新知HD,http://27.36.62.162:9090/live/DOXxinzhiHD_7000.m3u8
+DOX映画HD,http://27.36.62.162:9090/live/DOXyinghuaHD_7000.m3u8
+DOX剧场HD,http://27.36.62.162:9090/live/DOXjuchangHD_7000.m3u8
+新视觉HD,http://27.36.62.162:9090/live/xinshijueHD_7000.m3u8
+全纪实HD,http://27.36.62.162:9090/live/quanjishiHD_7000.m3u8
+求索纪录HD,http://27.36.62.162:9090/live/QSJLHD_7000.m3u8
+求索科学HD,http://27.36.62.162:9090/live/qiusuokexueHD_7000.m3u8
+求索动物HD,http://27.36.62.162:9090/live/QSDWHD_7000.m3u8
+求索生活HD,http://27.36.62.162:9090/live/QSSHHD_7000.m3u8
+高清探索HD,http://27.36.62.162:9090/live/searchHD_7000.m3u8
+高清影院HD,http://27.36.62.162:9090/live/FilmsHD_7000.m3u8
+高清剧场HD,http://27.36.62.162:9090/live/TheaterHD_7000.m3u8
+高清综合HD,http://27.36.62.162:9090/live/zongheHD_7000.m3u8
+高清演示HD,http://27.36.62.162:9090/live/HDChanneldemo_7000.m3u8
+粤语高清HD,http://27.36.62.162:9090/live/yueyuHD_7000.m3u8
+劲爆体育HD,http://27.36.62.162:9090/live/jinbaotiyuHD_7000.m3u8
+欢笑剧场HD,http://27.36.62.162:9090/live/huanxiaojuchangHD_7000.m3u8
+魅力音乐HD,http://27.36.62.162:9090/live/meiliyinyueHD_7000.m3u8
