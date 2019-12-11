@@ -1,19 +1,10 @@
-# homenet6.github.io
-家庭网络资源分享(HomeNet)群维护的IPTV PlayList 发布地址
+# satrom.github.io
 
-家庭网络资源分享(HomeNet)群
-
-电报群（telegram）https://t.me/homenet6
-
-电报频道（telegram）https://t.me/homenet9
-
-官方博客：https://bbsok.cf
+家庭网络资源分享维护的IPTV PlayList 发布地址
 
 建群宗旨
 
 “构建舒适家庭网络影音环境”，围绕家庭网络应用、影音播放 ，为群友提供便利，做小白的温馨家园。
-
-SLOGAN
 
 体验分享乐趣、结识同道好友、畅享美好生活
 
