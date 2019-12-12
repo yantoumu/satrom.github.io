@@ -30,6 +30,8 @@ CCTV15 高清,http://121.31.30.91:8081/ysten-business/live/cctv-15/1.m3u8
 山东卫视高清,http://39.135.36.142:18890/000000001000/1000000001000012807/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012807&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012807&owchid=ystenlive&owsid=1106497909461291586&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaR3cBsIsjm7UHdGO3a4NjD1C4TiYtYt%2by66pvMI%2bkz57DAkgjzetftIzpJRR8RWa0K
 重庆卫视高清,http://39.135.36.150:18890/000000001000/1000000002000018937/1.m3u8?channel-id=ystenlive&Contentid=1000000002000018937&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000018937&owchid=ystenlive&owsid=1106497909461333042&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUG5grAC0rFEDUfNPlNhZzLoghzkGon0cjoqXWi7%2bGPbWnsToB9Z5BcGamUzvzuTi
 4K频道,#genre#
+BestTV 4K,http://117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8
+纯享 4K,http://112.50.243.7/PLTV/88888888/224/3221226825/1.m3u8
 DOX4K,http://27.36.62.162:9090/live/dox4k_16000.m3u8
 天华4K,http://27.36.62.162:9090/live/tianhua4k_16000.m3u8
 自办4K,http://27.36.62.162:9090/live/ziban4k_16000.m3u8
@@ -82,6 +84,7 @@ HITS,http://pili-live-hdl.qhmywl.com/dsdtv/e6d6d3927102ce6e0e99187b52946497.flv
 TVB功夫台,http://pili-live-hdl.qhmywl.com/dsdtv/cfd2b3912b756d6d4965f018fd7d3717.flv
 FXHD,http://pili-live-hdl.qhmywl.com/dsdtv/245532ab74af9be852014a93e292f690.flv
 FOXCRIME,http://pili-live-hdl.qhmywl.com/dsdtv/833d6cdeed807b755e6c449832b26621.flv
+
 AMC,http://pili-live-hdl.qhmywl.com/dsdtv/40d0812307cd389be76c358de7f4913e.flv
 Boomerang,http://pili-live-hdl.qhmywl.com/dsdtv/65796ce70deacc164cf2eb854ad43994.flv
 WarnerTV,http://pili-live-hdl.qhmywl.com/dsdtv/a645bdeafb1216c23352144c3505bd8c.flv
@@ -377,7 +380,7 @@ MTV,vjms://58.215.133.185:8500:3502/live/cid=52
 臺-東森財經新聞HD,vjms://58.215.133.185:8500:3502/live/cid=456
 臺-旅遊生活,vjms://58.215.133.185:8500:3502/live/cid=103
 高清港台,#genre#
-﻿凤凰中文HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
+凤凰中文HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c6c0006fd67024502e414f10ff3
 凤凰资讯HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852
 凤凰香港HD,P2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
 TVB翡翠台,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8#P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
