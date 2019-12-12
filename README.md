@@ -16,4 +16,15 @@
 
 3、互动交流，经验分享：点播、直播影音播放，科学路由器选配，家庭网络组网等相关经验技巧分享，交朋识友，互帮互助
 
+维护更新：
+
+1. http://www.sharerw.com/zb/1203.m3u
+
+2. http://homenet6.github.io/list.m3u
+
+3. http://homenet6.github.io/list.txt
+
+4. http://homenet6.gitee.io/list/list.m3u
+
+5. http://homenet6.gitee.io/list/list.txt
 
