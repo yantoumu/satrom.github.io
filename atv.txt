@@ -1,3 +1,5 @@
+
+ATV,#genre#
 亚视ATV台,https://de035ceb0768225b04e9a007abe39fca.live.prod.hkatv.com/a1_cbr_lo.m3u8
 TVB 新闻台,mitv://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5#mitv://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
 HKC 有线新闻,P2p://3114910866:9906/5cb05bfa0004baf417a82ed0351d3696.ts#P2p://185.169.196.146:9906/5cb05bfa0004baf417a82ed0351d3696.ts
