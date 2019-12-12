@@ -1,7 +1,3 @@
-获取更多资源,http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-公众号关注 SYFXZJ,http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-获取更多资源,http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-公众号关注 SYFXZJ,http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
 收音机网络电台,http://live.xmcdn.com/live/1006/64.m3u8
 萤火虫网络电台,http://ls.qingting.fm/live/4998.m3u8
 中国校园之声,http://live.xmcdn.com/live/9/64.m3u8
@@ -97,8 +93,6 @@ CNR中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb48/index.m3u8
 CNR中国交通广播,http://live.xmcdn.com/live/45/64.m3u8
 CNR中国交通广播,http://ls.qingting.fm/live/4985.m3u8
 CNR中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-CCTV-5体育,http://cctv5.v.myalicdn.com/live/cctv5_1audio.m3u8
-CCTV-12社会与法,http://cctv.v.myalicdn.com/live/cctv12_1audio.m3u8?adapt=0&BR=audio,http://cctv.v.kcdnvip.com/live/cctv12_1/index.m3u8?adapt=0&BR=audio"
 安徽新闻综合广播,http://stream2.ahrtv.cn/xnxw/sd/live.m3u8
 安徽经济广播,http://stream.ahrtv.cn/jjgb/sd/live.m3u8
 安徽音乐广播,http://stream.ahrtv.cn/xnyy/sd/live.m3u8
