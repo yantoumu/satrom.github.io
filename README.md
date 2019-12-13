@@ -28,3 +28,6 @@
 
 5. http://homenet6.gitee.io/list/list.txt
 
+6. http://www.aihaotv.cn/mtv/1212.m3u
+
+7. http://zhiboy.ml/tv.txt
