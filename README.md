@@ -31,3 +31,5 @@
 6. http://www.aihaotv.cn/mtv/1212.m3u
 
 7. http://zhiboy.ml/tv.txt
+
+8. http://epg.51zmt.top:8000/e.xml
